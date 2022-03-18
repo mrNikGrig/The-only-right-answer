@@ -1,0 +1,16 @@
+C:\Users\lgrld\source\repos\sberbank\sberbank\bin\Debug\sberbank.exe.config
+C:\Users\lgrld\source\repos\sberbank\sberbank\bin\Debug\sberbank.exe
+C:\Users\lgrld\source\repos\sberbank\sberbank\bin\Debug\sberbank.pdb
+C:\Users\lgrld\source\repos\sberbank\sberbank\obj\Debug\sberbank.csproj.AssemblyReference.cache
+C:\Users\lgrld\source\repos\sberbank\sberbank\obj\Debug\sberbank.csproj.SuggestedBindingRedirects.cache
+C:\Users\lgrld\source\repos\sberbank\sberbank\obj\Debug\MainWindow.g.cs
+C:\Users\lgrld\source\repos\sberbank\sberbank\obj\Debug\App.g.cs
+C:\Users\lgrld\source\repos\sberbank\sberbank\obj\Debug\sberbank_MarkupCompile.cache
+C:\Users\lgrld\source\repos\sberbank\sberbank\obj\Debug\sberbank_MarkupCompile.lref
+C:\Users\lgrld\source\repos\sberbank\sberbank\obj\Debug\MainWindow.baml
+C:\Users\lgrld\source\repos\sberbank\sberbank\obj\Debug\sberbank.g.resources
+C:\Users\lgrld\source\repos\sberbank\sberbank\obj\Debug\sberbank.Properties.Resources.resources
+C:\Users\lgrld\source\repos\sberbank\sberbank\obj\Debug\sberbank.csproj.GenerateResource.cache
+C:\Users\lgrld\source\repos\sberbank\sberbank\obj\Debug\sberbank.csproj.CoreCompileInputs.cache
+C:\Users\lgrld\source\repos\sberbank\sberbank\obj\Debug\sberbank.exe
+C:\Users\lgrld\source\repos\sberbank\sberbank\obj\Debug\sberbank.pdb
